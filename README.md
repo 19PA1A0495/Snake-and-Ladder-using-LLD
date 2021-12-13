@@ -19,6 +19,9 @@ This application is designed for snake and ladder game takes the following input
 
 --> If the position of the player is equal to the last number of the board, the player Wins displaying "PLayer (PlayerName) Won"  
 
+# Video Explaination
+
+https://youtu.be/P69O0e3dWCs
 
 
 
